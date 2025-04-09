@@ -1,3 +1,8 @@
+
+Plot hyperspectral data:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/p-p-p-p/Spectral-Data-Analysis/blob/main/dataset/plot.ipynb) <br>
+
+
 Plant Health Classification: Fresh vs Dry Using Spectral Data
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/p-p-p-p/Spectral-Data-Analysis/blob/main/Fresh_vs_Dry.ipynb) <br>
 Plant Classification Using Spectral Data
